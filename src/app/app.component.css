@@ -1,0 +1,75 @@
+.cabecalho {
+    width: 97%;
+    background-color: #509bf6;
+    margin-left: 25px;
+    color: white;
+    padding-bottom: 60px;
+    margin-top: 50px;
+}
+
+.menu ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.menu>ul,
+li,
+a {
+    white-space: nowrap;
+    color: white;
+    font-size: 15px;
+}
+
+.logo img {
+    height: 40px
+}
+
+img {
+    width: auto;
+    max-height: 100%;
+}
+
+.conteudo {
+    margin-top: 50px;
+    width: 47%;
+}
+
+.conteudo h1 {
+    font-size: 70px;
+    width: 950px;
+}
+
+.conteudo p {
+    font-size: 13px;
+}
+
+.molier {
+    float: right;
+    margin-top: -20px;
+    width: 442px;
+}
+
+.imagem {
+    width: 100px;
+    height: 100px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-right: 60px;
+    margin-left: 70px;
+}
+
+.linha {
+    font-size: 14px;
+}
+
+.cinza {
+    width: 97%;
+    background-color: rgb(248, 249, 251, 255);
+    margin-left: 25px;
+    color: white;
+    padding-bottom: 60px;
+    margin-top: 50px;
+}
